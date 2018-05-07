@@ -1,0 +1,32 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Testing of node package manager",
+  "main": "script.js",
+  "scripts": {
+    "test": "console.log('Hello');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasnatch99/npm-test.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "package",
+    "manager",
+    "node",
+    "server-side",
+    "javascript",
+    "test"
+  ],
+  "author": "Eric B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasnatch99/npm-test/issues"
+  },
+  "homepage": "https://github.com/wasnatch99/npm-test#readme",
+  "dependencies": {
+    "constants-browserify": "^1.0.0"
+  }
+}
